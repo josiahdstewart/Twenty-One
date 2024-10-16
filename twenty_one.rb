@@ -1,5 +1,3 @@
-require 'pry'
-
 class Player
   BUST_THRESHOLD = 21
   ACE_LOW = 1
